@@ -1,6 +1,0 @@
-{
-    "python.linting.flake8Enabled": true,
-    "python.linting.enabled": true,
-    "python.pythonPath": "C:\\Users\\li3548\\Desktop\\etude_DRF\\rest_venv\\Scripts\\python.exe",
-    "python.envFile": "${workspaceFolder}/.env"
-}
